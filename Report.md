@@ -1,5 +1,12 @@
 # Weekly Finance Report
 This is an auto-generated report of our finances.
+## Data Tables
+* [Accounts](accounts.csv)
+* [Debts](debts.csv)
+* [Account Totals](total_accounts.csv)
+* [Debt Totals](total_debts.csv)
+* [Value Totals](total_value.csv)
+
 ## Value Report
 ![Accounts](accounts.png)
 
