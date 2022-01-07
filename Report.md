@@ -37,7 +37,3 @@ This report does not include:
 ![Totals](totals.png)
 
 The chart above shows the amount of value in our accounts, compared to our debt
-
-Notes:
-- 10/29/2021: Sold truck; received $13,000 into accounts
-- 11/07/2021: Transfered truck money into paying off credit card debt
