@@ -6,6 +6,7 @@ This is an auto-generated report of our finances.
 * [Account Totals](total_accounts.csv)
 * [Debt Totals](total_debts.csv)
 * [Value Totals](total_value.csv)
+* [Monthly Reports](https://github.com/barry4356/finance_monthly_reports/blob/master/Report.md)
 
 ## Value Report
 ![Accounts](accounts.png)
