@@ -38,3 +38,6 @@ This report does not include:
 ![Totals](totals.png)
 
 The chart above shows the amount of value in our accounts, compared to our debt
+
+## Notes
+* 1/14 is the first date I started running the report **before** transferring money into credit cards. Shows a phantom spike in value/debt charts
