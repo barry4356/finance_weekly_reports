@@ -1,12 +1,14 @@
 # Weekly Finance Report
 This is an auto-generated report of our finances.
+
+[Monthly Reports](https://github.com/barry4356/finance_monthly_reports/blob/master/Report.md)
+
 ## Data Tables
 * [Accounts](accounts.csv)
 * [Debts](debts.csv)
 * [Account Totals](total_accounts.csv)
 * [Debt Totals](total_debts.csv)
 * [Value Totals](total_value.csv)
-* [Monthly Reports](https://github.com/barry4356/finance_monthly_reports/blob/master/Report.md)
 
 ## Value Report
 ![Accounts](accounts.png)
@@ -38,3 +40,6 @@ This report does not include:
 ![Totals](totals.png)
 
 The chart above shows the amount of value in our accounts, compared to our debt
+
+## Notes
+* 1/14 is the first date I started running the report **before** transferring money into credit cards. Shows a phantom spike in value/debt charts
