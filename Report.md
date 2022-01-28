@@ -34,7 +34,7 @@ The chart above shows the amount of debt we're currently in. Includes:
 
 This report does not include:
 * Mortgage
-* Car/Boat Payments
+* Car Debt
 
 ## Totals Report
 ![Totals](totals.png)
