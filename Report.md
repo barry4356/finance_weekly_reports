@@ -45,3 +45,4 @@ The chart above shows the amount of value in our accounts, compared to our debt
 * 1/14 is the first date I started running the report **before** transferring money into credit cards. Shows a phantom spike in value/debt charts
 * 1/22 Moved wedding money out of some accounts into holding area; caused the spike in debt and dip in accounts. 
 * 2/05 Boat payoff 🤑
+* 3/06 Honeymoon Expenses hit, but haven't deposited wedding gifts 😟
