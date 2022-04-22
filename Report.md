@@ -46,3 +46,4 @@ The chart above shows the amount of value in our accounts, compared to our debt
 * 1/22 Moved wedding money out of some accounts into holding area; caused the spike in debt and dip in accounts. 
 * 2/05 Boat payoff 🤑
 * 3/06 Honeymoon Expenses hit, but haven't deposited wedding gifts 😟
+* 4/22 Cruise Expenses are starting to hit...
