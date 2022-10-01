@@ -6,5 +6,4 @@ echo $commit_message
 git pull
 git add *.csv
 git add *.png
-git commit -m "${commit_message}"
-sleep 5
+git commit -m "${commit_message}" && echo "Ready for git push!"
