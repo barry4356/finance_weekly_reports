@@ -43,4 +43,4 @@ The chart above shows the amount of value in our accounts, compared to our debt
 
 ## Notes
 * 9/18  First Paycheck From NGC, started fresh set of reports
-* 10/01 Payed off some debt, but overall debt:value improved
+* 10/01 Payed off some debt, but overall debt:value improved. Might be partially due to report 1 running before transfer completed?
