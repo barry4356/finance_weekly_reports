@@ -6,4 +6,5 @@ echo $commit_message
 git pull
 git add *.csv
 git add *.png
+git add Report.md 
 git commit -m "${commit_message}" && echo "Ready for git push!"
